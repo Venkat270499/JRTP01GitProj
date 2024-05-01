@@ -12,4 +12,4 @@ public class App
         
         System.out.println("Let me mess it up with some common commit without pull");
     }
-}
+} 
