@@ -10,6 +10,10 @@ public class App
     {
         System.out.println( "Hey Venkat This is my first commit from Dev1" );
         
+
+        System.out.println("Let me commit first"); 
+     
+
         System.out.println("Let me mess it up with some common commit without pull");
     }
 } 
