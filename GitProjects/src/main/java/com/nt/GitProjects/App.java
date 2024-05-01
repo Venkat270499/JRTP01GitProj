@@ -12,6 +12,6 @@ public class App
         
         System.out.println("Let me mess it up with some common commit without pull");
         
-        System.out.println("Branch is developed and merged");
+        System.out.println("Branch is developed and merged"); 
     }
 }
