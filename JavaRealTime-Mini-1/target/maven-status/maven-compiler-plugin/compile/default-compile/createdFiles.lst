@@ -1,0 +1,6 @@
+com\nt\model\PlanCategoryTable.class
+com\nt\service\IServicePlanCategory.class
+com\nt\service\ServicePlanCategory.class
+com\nt\controllers\PlanCategoryController.class
+com\nt\SpringProjectForLogging1Application.class
+com\nt\repository\IPlanCategoryRepo.class
